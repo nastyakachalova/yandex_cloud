@@ -57,3 +57,5 @@ tzdata==2023.3
 tzlocal==5.2
 urllib3==2.2.3
 verboselogs==1.7
+yarl==1.17.1
+geopy~=2.4.1
